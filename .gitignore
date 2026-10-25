@@ -1,0 +1,21 @@
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editors / IDE
+.vscode/
+.idea/
+*.swp
+
+# Build output
+/target/
+/build/
+/dist/
+/bin/
+*.exe
+*.pdb
+
+# Logs / local config
+*.log
+.env
